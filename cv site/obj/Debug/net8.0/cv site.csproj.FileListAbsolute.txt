@@ -33,3 +33,17 @@ C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\r
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.pdb
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\ref\cv site.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.staticwebassets.endpoints.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.sourcelink.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets\msbuild.cv site.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Scrutor.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

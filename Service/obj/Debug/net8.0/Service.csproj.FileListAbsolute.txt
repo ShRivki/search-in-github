@@ -10,3 +10,4 @@ C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\Service\obj\Debug\net8.0\r
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\Service\obj\Debug\net8.0\ref\Service.dll
 C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\Service\obj\Debug\net8.0\Service.sourcelink.json

@@ -10,6 +10,6 @@ namespace Service
     public interface IGitHubService
     {
         Task<List<RepositoryInfo>> GetPortfolioAsync(string userName);
-    Task<List<RepositoryInfo>> SearchRepositoriesAsync(string repoName = "", string language = "", string userName = "");
+        Task<List<RepositoryInfo>> SearchRepositoriesAsync(string repoName = "", string language = "", string userName = "");
     }
 }

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "oGGU0/AB4QitXiE/ndAwoWCZZkmZaZo5JbbSYRxfMBk=",
+  "Hash": "TEqjqLHi2mJfuvOglXaPVYvsyGQ78+jH05VjmSb5BYM=",
   "Source": "cv site",
   "BasePath": "_content/cv site",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
