@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUxRB4c6imo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\פרקטיקוד חדש\\cv site\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\octokit\\13.0.1\\octokit.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

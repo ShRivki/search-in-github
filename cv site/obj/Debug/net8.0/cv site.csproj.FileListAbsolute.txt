@@ -1,0 +1,35 @@
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.exe
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.deps.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.runtimeconfig.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\cv site.pdb
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Octokit.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Service.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\bin\Debug\net8.0\Service.pdb
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets\msbuild.cv site.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets\msbuild.build.cv site.props
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.cv site.props
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.cv site.props
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\scopedcss\bundle\cv site.styles.css
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.csproj.Up2Date
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\refint\cv site.dll
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.pdb
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\cv site.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\פרקטיקוד חדש\cv site\cv site\obj\Debug\net8.0\ref\cv site.dll
